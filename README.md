@@ -34,8 +34,10 @@ VGG16_revised
 LeNet5
 
 ## Results
-
-
+| Model | Training Accuracy    | Validation Accuracy    | Testing Accuracy
+| :---:   | :---: | :---: | :---: |
+| VGG16_revised | -- %   | -- %   | -- %   |
+| LeNet5 | 97.57 %   | 98.22 %   | 96.05 %   |
 
 ## Hardware Equipment
 CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz   2.81 GHz
