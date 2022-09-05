@@ -39,7 +39,7 @@ Connection: https://aidea-web.tw/topic/285ef3be-44eb-43dd-85cc-f0388bf85ea4
 ## Results
 | Model | Training Accuracy    | Validation Accuracy    | Testing Accuracy
 | :---:   | :---: | :---: | :---: |
-| VGG16_revised | 96.78 %   | 96.25 %   | 95.71 %   |
+| VGG16_revised | 96.78 %   | 96.25 %   | 96.45 %   |
 | LeNet5 | 97.57 %   | 98.22 %   | 96.05 %   |
 
 ## Hardware Equipment
