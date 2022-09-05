@@ -18,6 +18,8 @@ Automated optical inspection (AOI) is a high speed and precise optical detection
 3. Image groups : 1 Normal + 5 Defects
 4. Image size   : 512 * 512
 
+Data can be downloaded through the [Sources](#sources) connection.
+
 ps. The ratio of training and validation data is 4:1.
 
 ## Image Classification Groups
