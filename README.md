@@ -44,13 +44,10 @@ LeNet5
 | LeNet5 | 97.57 %   | 98.22 %   | 96.05 %   |
 
 ## Hardware Equipment
-CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz   2.81 GHz
-
-RAM: 12.0 GB (4+8)
-
-GPU: NVIDIA GeForce GTX 1050 / Intel(R) HD Graphics 630
-
-GPU Memory: 2GB GDDR5 (128-bit)
+* CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz   2.81 GHz
+* RAM: 12.0 GB (4+8)
+* GPU: NVIDIA GeForce GTX 1050 / Intel(R) HD Graphics 630
+* GPU Memory: 2GB GDDR5 (128-bit)
 
 ## How to run
 1. You can directly run the **train.py** file so that the model will be trained and exported.
