@@ -8,7 +8,7 @@ from model import VGG16_revised, VGG16_pre, LeNet5
 from train_pipline import train
 
 # Hyperparameters
-n_epochs = 1  # Epochs
+n_epochs = 50  # Epochs
 batch_size = 32  # Batch：number of images per batch
 LR = 0.001  # Learning Rate
 
