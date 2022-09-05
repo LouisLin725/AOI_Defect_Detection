@@ -20,7 +20,7 @@ Automated optical inspection (AOI) is a high speed and precise optical detection
 
 ps. The ratio of training and validation data is 4:1.
 
-## Image Clssification Groups
+## Image Classification Groups
 ![image](https://user-images.githubusercontent.com/101628791/188354248-ec0cc3fa-fe34-46b9-a701-8edf507469d6.png)
 
 ## Sources
