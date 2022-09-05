@@ -8,6 +8,7 @@ This is the subject of one of the exercises on AIdea platform.
 * [Training Models](#training-models)
 * [Results](#results)
 * [Hardware Equipment](#hardware-equipment)
+* [How to run](#how-to-run)
 * [Reference](#reference)
 
 ## Brief Introduction
@@ -50,6 +51,10 @@ RAM: 12.0 GB (4+8)
 GPU: NVIDIA GeForce GTX 1050 / Intel(R) HD Graphics 630
 
 GPU Memory: 2GB GDDR5 (128-bit)
+
+## How to run
+1. You can directly run the train.py file so that the model will be trained and exported.
+2. The submit.py file can help you using the trained model to produce the test.csv, which is matched to the requirement of the AIdea.
 
 ## Reference
 Methods providing
